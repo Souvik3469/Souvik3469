@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Web and App Development, Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://souvik.social/](https://souvik.social/)
+- 👨‍💻 All of my projects are available [here](https://souvik-social.vercel.app/)
 
 - 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **souviksen3469@gmail.com**
 
-- 📄 Know about my experiences [https://souvik.social/resume](https://souvik.social/resume)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1kMUJcKvKOhVzKtzpgBE_8-IYZxJ7Vt3K/view?usp=drive_link)
 
 - ⚡ Fun fact **I binge watch anime seasons in a night.**
 
