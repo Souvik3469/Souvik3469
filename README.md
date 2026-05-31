@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Souvik Sen</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h3 align="center">A passionate product engineer</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
-- 🌱 I’m currently learning **Web and App Development, Machine Learning**
+- 🌱 Learning, building, and shipping products in an AI-first world
 
 - 👨‍💻 All of my projects are available [here](https://souvik-social.vercel.app/)
 
-- 💬 Ask me about **MERN Stack**
+- 💬 Ask me about **product development**
 
 - 📫 How to reach me **souviksen3469@gmail.com**
 
